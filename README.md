@@ -42,4 +42,4 @@ Efekt "písacieho stroja" pre texty počas prechodov medzi scénami. Pracuje s `
 
 ---
 
-V prípade záujmu viem poskytnúť aj širšiu ukážku kódu alebo celý projekt.
+V prípade záujmu viem poskytnúť aj širšiu ukážku kódu.
