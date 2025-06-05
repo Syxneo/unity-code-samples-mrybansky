@@ -4,7 +4,7 @@ Tento repozitár obsahuje výber mojich najzaujímavejších skriptov z dvoch š
 
 ---
 
-## DodgeZone (mobilná hra)
+## DodgeZone (mobilná hypercasual hra)
 
 ### PlayerGravityMovement.cs
 Logika pohybu hráča na planéte s vlastnou gravitáciou. Spracúva joystick input, pohyb po zakrivenom povrchu, animácie a rotáciu podľa povrchu (Raycast + Quaternion).
