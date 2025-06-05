@@ -36,6 +36,7 @@ Efekt "písacieho stroja" pre texty počas prechodov medzi scénami. Pracuje s `
 ## 🔧 Použité technológie a techniky
 - Unity API: `Rigidbody`, `Transform`, `Input`, `Animator`, `Collider`, `SceneManager`, `CanvasGroup`
 - DOTween: `DOFade`, `DOScale`, `DOAnchorPos`, `DOText`
+- [DOTween](http://dotween.demigiant.com/) – tweening knižnica pre Unity (animácie pozícií, fade, scale…)
 - UI: `TextMeshPro`, `Image`, `RectTransform`
 - Fyzika: gravitácia, pohyb po zakrivenom povrchu, Raycast
 - OOP: oddelenie zodpovednosti, single-responsibility princípy
