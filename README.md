@@ -1,6 +1,6 @@
 # Unity Code Samples – Martin Rybanský
 
-Tento repozitár obsahuje výber mojich najzaujímavejších skriptov z dvoch študentských herných projektov vytvorených v Unity pomocou C#. Skripty demonštrujú prácu s hernou logikou, fyzikou, animáciami, používateľským rozhraním a systémami v hrách.
+Tento repozitár obsahuje výber z niektorých mojich použitých skriptov z dvoch študentských herných projektov vytvorených v Unity pomocou C#. Skripty demonštrujú prácu s hernou logikou, fyzikou, animáciami, používateľským rozhraním a systémami v hrách.
 
 ---
 
