@@ -33,7 +33,7 @@ Efekt "písacieho stroja" pre texty počas prechodov medzi scénami. Pracuje s `
 
 ---
 
-## 🔧 Použité technológie a techniky
+## Použité technológie a techniky
 - Unity API: `Rigidbody`, `Transform`, `Input`, `Animator`, `Collider`, `SceneManager`, `CanvasGroup`
 - [DOTween](http://dotween.demigiant.com/): `DOFade`, `DOScale`, `DOAnchorPos`, `DOText`
 - UI: `TextMeshPro`, `Image`, `RectTransform`
